@@ -1,3 +1,4 @@
+CamConfig.js text/javascript
 // var Vheight = 400;
 // var Vwidth = 710;
 var Vwidth = window.innerWidth;
